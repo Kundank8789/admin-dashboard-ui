@@ -26,33 +26,39 @@ export default function DashboardPage() {
             <div className="grid grid-cols-1 gap-4 md:grid-cols-2 xl:grid-cols-4">
               <PremiumStatCard
                 title="Total Users"
-                value={42920}
+                value={12480}
+                displayValue="12,480"
                 change="+12% this week"
                 icon={Users}
               />
+
               <PremiumStatCard
                 title="Revenue"
                 value={42920}
+                displayValue="$42,920"
                 change="+8% this week"
                 icon={DollarSign}
               />
+
               <PremiumStatCard
                 title="Admins"
-                value="24"
+                value={24}
                 change="+2 new admins"
                 icon={ShieldCheck}
               />
+
               <PremiumStatCard
                 title="Growth"
-                value="+18.2%"
+                value={18.2}
+                displayValue="+18.2%"
                 change="stable performance"
                 icon={TrendingUp}
               />
             </div>
 
             {/* Main grid */}
-            <div className="grid grid-cols-1 gap-4 xl:grid-cols-3">
-              <div className="xl:col-span-2">
+            <div className="grid grid-cols-1 gap-4 xl:grid-cols-3 min-w-0">
+              <div className="xl:col-span-2 min-w-0">
                 <PremiumChartCard />
               </div>
 
