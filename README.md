@@ -24,6 +24,15 @@ Designed for high-performance dashboards including analytics, billing systems, u
 
 🧩 Modular and scalable folder structure
 
+<img width="1920" height="1080" alt="Screenshot 2026-01-27 201522" src="https://github.com/user-attachments/assets/717e4759-968e-4d01-8ebd-96593a51dd2e" />
+
+<img width="1920" height="1080" alt="Screenshot 2026-01-27 201542" src="https://github.com/user-attachments/assets/b3c7985f-6e99-4373-be46-93671b7a9e4d" />
+
+<img width="1920" height="1080" alt="Screenshot 2026-01-27 201603" src="https://github.com/user-attachments/assets/7f896dd9-7a11-456b-a458-e1544925df4c" />
+
+
+
+
 🛠 Tech Stack
 
 Frontend: React / Next.js
