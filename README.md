@@ -144,11 +144,3 @@ This dashboard includes:
 
 GitHub
 https://github.com/Kundank8789
-
----
-
-## ⭐ Support
-
-If you like this project, consider giving it a **star ⭐ on GitHub**.
-
-It helps others discover the project and motivates further improvements.
