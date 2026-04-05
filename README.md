@@ -89,32 +89,6 @@ Clone the repository
 git clone https://github.com/Kundank8789/admin-dashboard-ui.git
 ```
 
-Move into the project folder
-
-```
-cd admin-dashboard-ui
-```
-
-Install dependencies
-
-```
-npm install
-```
-
-Run the development server
-
-```
-npm run dev
-```
-
-Open in browser
-
-```
-http://localhost:3000
-```
-
----
-
 ## 📸 Dashboard Preview
 
 This dashboard includes:
