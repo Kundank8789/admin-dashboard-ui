@@ -110,11 +110,3 @@ This dashboard includes:
 * 📱 Mobile responsive optimization
 * 📈 Real-time financial tracking
 
----
-
-## 👨‍💻 Author
-
-**Kundan Kumar**
-
-GitHub
-https://github.com/Kundank8789
